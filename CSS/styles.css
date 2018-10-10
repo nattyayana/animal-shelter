@@ -1,0 +1,24 @@
+.column {
+  float: left;
+  column-width: 300px;
+  background-color: green;
+  margin: 50px;
+
+}
+.column2 {
+  float: left;
+  column-width: 300px;
+  background-color: red;
+  margin: 50px;
+
+}
+.column3 {
+  float: left;
+  column-width: 300px;
+  background-color: blue;
+  margin: 50px;
+
+}
+#picOne{
+  padding-left: 10px;
+}
